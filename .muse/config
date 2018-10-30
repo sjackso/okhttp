@@ -1,0 +1,5 @@
+# Muse configuration file
+
+build = "mvn"
+arguments = [ "validate" ]
+
